@@ -30,3 +30,4 @@ And restart zabbix-agent:
 - Import template  
 - Attach it to host with Zabbix agent  
 - Change value of macro `{$SERIAL}` to serial port required if other than /dev/ttyS0  
+![10](https://user-images.githubusercontent.com/14870891/30377187-8bbef4ac-9897-11e7-948c-0b688cab3542.png)
